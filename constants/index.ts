@@ -1,8 +1,8 @@
 import { FaYoutube, FaFacebook } from "react-icons/fa";
 import {
-  RxDiscordLogo,
+  RxTelegramLogo,
   RxGithubLogo,
-  RxInstagramLogo,
+  RxwhatsappLogo,
   RxTwitterLogo,
   RxLinkedinLogo,
 } from "react-icons/rx";
@@ -90,14 +90,14 @@ export const SKILL_DATA = [
 
 export const SOCIALS = [
   {
-    name: "Instagram",
-    icon: RxInstagramLogo,
-    link: "https://instagram.com",
+    name: "Telegram",
+    icon: RxTelegramLogo,
+    link: "https://t.me/legion_of_doom_2050",
   },
   {
-    name: "Facebook",
-    icon: FaFacebook,
-    link: "https://facebook.com",
+    name: "Whatsapp",
+    icon: RxwhatsappLogo,
+    link: "https://whatsapp.com/channel/0029VbAWWH9BFLgRMCXVlU38",
   },
   {
     name: "Twitter",
