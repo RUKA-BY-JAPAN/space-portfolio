@@ -297,7 +297,7 @@ export const FOOTER_DATA = [
       },
       {
         name: "TELEGRAM",
-        icon: RxDiscordLogo,
+        icon: RxTelegramLogo,
         link: "https://t.me/legion_of_doom_2050",
       },
     ],
@@ -307,12 +307,12 @@ export const FOOTER_DATA = [
     data: [
       {
         name: "Whatsapp",
-        icon: RxInstagramLogo,
+        icon: RxwhatsappLogo,
         link: "https://whatsapp.com/channel/0029VbAWWH9BFLgRMCXVlU38",
       },
       {
         name: "Whatsapp2",
-        icon: RxTwitterLogo,
+        icon: RxwhatsappLogo,
         link: "https://whatsapp.com/channel/0029VbAWWH9BFLgRMCXVlU38",
       },
       {
@@ -326,14 +326,14 @@ export const FOOTER_DATA = [
     title: "About",
     data: [
       {
-        name: "Become Sponsor",
+        name: "CONTACT OWNER",
         icon: null,
-        link: "https://youtube.com",
+        link: "https://wa.me/+94774589636?text=𝙷𝙸_𝙸_𝙰𝙼-𝚁𝙴𝙳𝚂𝙰𝙼𝚄𝚁𝙰𝙸_😶‍🌫️",
       },
       {
-        name: "Learning about me",
+        name: "about me & Feedback",
         icon: null,
-        link: "https://example.com",
+        link: "https://files.catbox.moe/r06l0v.jpg",
       },
       {
         name: "Contact Me",
