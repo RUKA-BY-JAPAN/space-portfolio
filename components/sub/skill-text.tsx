@@ -18,7 +18,7 @@ export const SkillText = () => {
       >
         <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
         <h1 className="Welcome-text text-[13px]">
-          Think better with Next.js 14
+          Think better with node. x 22
         </h1>
       </motion.div>
 
@@ -26,7 +26,7 @@ export const SkillText = () => {
         variants={slideInFromLeft(0.5)}
         className="text-[30px] text-white font-medium mt-[10px] text-center mb-[15px]"
       >
-        Game & Making apps with modern technologies.
+        Game,Webmd,apps make with all cod modern technologies.
       </motion.div>
 
       <motion.div
