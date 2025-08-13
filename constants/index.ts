@@ -2,7 +2,7 @@ import { FaYoutube, FaFacebook } from "react-icons/fa";
 import {
   RxTelegramLogo,
   RxGithubLogo,
-  RxwhatsappLogo,
+  RxInstagramLogo,
   RxTwitterLogo,
   RxLinkedinLogo,
 } from "react-icons/rx";
@@ -91,12 +91,12 @@ export const SKILL_DATA = [
 export const SOCIALS = [
   {
     name: "Telegram",
-    icon: RxTelegramLogo,
+    icon: RxInstagramLogo,
     link: "https://t.me/legion_of_doom_2050",
   },
   {
-    name: "Whatsapp",
-    icon: RxwhatsappLogo,
+    name: "Facebook",
+    icon: FaFacebook,
     link: "https://whatsapp.com/channel/0029VbAWWH9BFLgRMCXVlU38",
   },
   {
@@ -297,7 +297,7 @@ export const FOOTER_DATA = [
       },
       {
         name: "TELEGRAM",
-        icon: RxTelegramLogo,
+        icon: RxDiscordLogo,
         link: "https://t.me/legion_of_doom_2050",
       },
     ],
@@ -307,12 +307,12 @@ export const FOOTER_DATA = [
     data: [
       {
         name: "Whatsapp",
-        icon: RxwhatsappLogo,
+        icon: RxInstagramLogo,
         link: "https://whatsapp.com/channel/0029VbAWWH9BFLgRMCXVlU38",
       },
       {
         name: "Whatsapp2",
-        icon: RxwhatsappLogo,
+        icon: RxTwitterLogo,
         link: "https://whatsapp.com/channel/0029VbAWWH9BFLgRMCXVlU38",
       },
       {
